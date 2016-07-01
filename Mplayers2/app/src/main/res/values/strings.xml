@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mplayers</string>
+    <string name="mu_on_players">muñon Players</string>
+    <string name="elige_categoria">Elige Categoria</string>
+    <string name="fotologo">fotoLogo</string>
+
+    <string-array name="Spinner">
+        <item>Elegir categoria</item>
+        <item>Juegos de Mesa</item>
+        <item>Juegos de miniaturas</item>
+        <item>Favoritos</item>
+    </string-array>
+</resources>
